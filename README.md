@@ -1,4 +1,4 @@
-查看分支：git branch
+﻿查看分支：git branch
 
 创建分支：git branch <name>
 
@@ -9,4 +9,4 @@
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
-	11113333
+	11112222
